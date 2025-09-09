@@ -63,6 +63,4 @@ Motto: "Building the future, one line of code at a time"
 
 *Thanks for stopping by! Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate on something cool!* ✨
 
-[![Profile Views](https://komarev.com/ghpvc/?username=TusharKundekar&color=blueviolet&style=flat-square)](https://github.com/TusharKundekar)
-
 </div>
