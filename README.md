@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://github.com/TusharKundekar/TusharKundekar/blob/main/img.jpg" width="200" style="border-radius:50%" />
+</p>
+
+
+
+
 ## 👋 Hey, I'm Tushar Kundekar!
 🎓 BCA Graduate | Aspiring Cloud Architect | Data Enthusiast  
 💡 I enjoy building projects with **HTML, CSS, PHP, MySQL, Excel, Power BI**  
