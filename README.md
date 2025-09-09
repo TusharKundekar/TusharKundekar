@@ -38,7 +38,7 @@ I'll handle the analysis, you bring the questions 📊☕
 <a href="https://linkedin.com/in/tusharkundekar">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:tusharkundekar@gmail.com">
+<a href="mailto:tusharkundekar1430@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
 </a>
 
