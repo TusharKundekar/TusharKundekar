@@ -20,12 +20,12 @@ I'll handle the code, you bring the coffee ☕💻
 
 <div align="left">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=3776AB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=1572B6)
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=flat-square&logo=java&logoColor=white&labelColor=ED8B00)
+![Microsoft Excel](https://img.shields.io/badge/MICROSOFT%20EXCEL-217346?style=flat-square&logo=microsoft-excel&logoColor=white&labelColor=217346)
+![Power BI](https://img.shields.io/badge/POWERBI-F2C811?style=flat-square&logo=power-bi&logoColor=black&labelColor=F2C811)
 
 </div>
 
@@ -35,7 +35,7 @@ I'll handle the code, you bring the coffee ☕💻
 
 <div align="left">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/tusharkundekar)
+![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0077B5&link=https://linkedin.com/in/tusharkundekar)
 
 </div>
 
