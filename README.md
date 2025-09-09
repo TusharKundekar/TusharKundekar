@@ -3,16 +3,16 @@
 ---
 
 Welcome to my GitHub profile!  
-I'm a developer focused on building solid solutions and expanding my technical expertise. I enjoy tackling challenging problems and creating efficient, practical code. Here you'll find:
+I'm a Data Analyst focused on transforming raw data into meaningful insights and driving data-driven decisions. I enjoy uncovering patterns, creating impactful visualizations, and solving business problems through analytics. Here you'll find:
 
-• ⚡ **Projects I'm actively developing and contributing to**  
-• 🛠️ **Technical solutions I've built while solving real-world problems**  
-• 💡 **Code snippets and tools that might help fellow developers**
+• 📊 **Data analysis projects and dashboards I've built**  
+• 🔍 **Analytics solutions for real-world business challenges**  
+• 📈 **Visualization tools and reports that tell compelling data stories**
 
-Whether you're looking for clean code, practical solutions, or want to collaborate on interesting projects—you've come to the right place!
+Whether you're looking for analytical insights, interactive dashboards, or want to collaborate on data-driven projects—you've come to the right place!
 
-Ready to build something awesome together? Let's get started.  
-I'll handle the code, you bring the coffee ☕💻
+Ready to unlock the power of data together? Let's dive in.  
+I'll handle the analysis, you bring the questions 📊☕
 
 ---
 
