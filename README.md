@@ -20,12 +20,12 @@ I'll handle the analysis, you bring the questions 📊☕
 
 <div align="left">
 
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=3776AB" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=E34F26" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=1572B6" />
-<img src="https://img.shields.io/badge/JAVA-ED8B00?style=flat-square&logo=java&logoColor=white&labelColor=ED8B00" />
-<img src="https://img.shields.io/badge/MICROSOFT%20EXCEL-217346?style=flat-square&logo=microsoft-excel&logoColor=white&labelColor=217346" />
-<img src="https://img.shields.io/badge/POWERBI-F2C811?style=flat-square&logo=power-bi&logoColor=black&labelColor=F2C811" />
+<img src="https://img.shields.io/badge/🐍_PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/🌐_HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/🎨_CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/☕_JAVA-ED8B00?style=for-the-badge&logo=coffeescript&logoColor=white" />
+<img src="https://img.shields.io/badge/📊_MICROSOFT_EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/📈_POWER_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
 
 </div>
 
@@ -36,7 +36,11 @@ I'll handle the analysis, you bring the questions 📊☕
 <div align="left">
   
 <a href="https://linkedin.com/in/tusharkundekar">
-  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0077B5" />
+  <img src="https://img.shields.io/badge/💼_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:tusharkundekar@gmail.com">
+  <img src="https://img.shields.io/badge/📧_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
