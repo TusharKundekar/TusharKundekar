@@ -1,31 +1,32 @@
 <table>
   <tr>
-    <td>
+    <td width="220">
       <img src="https://github.com/TusharKundekar/TusharKundekar/blob/main/img.jpg" width="200" style="border-radius:50%" />
     </td>
     <td>
       <h2>👋 Hey, I'm Tushar Kundekar!</h2>
       <p>
         🎓 BCA Graduate | Aspiring Cloud Architect | Data Enthusiast <br>
-        💡 I enjoy building projects with <b>HTML, CSS, PHP, MySQL, Excel, Power BI</b> <br>
+        💡 Building projects with <b>HTML, CSS, PHP, MySQL, Excel, Power BI</b> <br>
         🏆 Winner of <b>Techspectra 2023</b> & <b>Codethon 2025</b> <br>
         🚀 Exploring <b>Cloud Computing & Data Analytics</b>
       </p>
-      
-      <h3>🔗 Connect with me</h3>
-      <a href="https://linkedin.com/in/tusharkundekar">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
-      </a>
-      <a href="https://instagram.com/yourusername">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
-      </a>
+
+      <p>
+        <a href="https://linkedin.com/in/tusharkundekar">
+          <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+        </a>
+        <a href="https://instagram.com/yourusername">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Tech Stack  
 ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
@@ -36,6 +37,6 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats  
 ![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=TusharKundekar&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TusharKundekar&layout=compact&theme=radical)
