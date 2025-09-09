@@ -20,12 +20,12 @@ I'll handle the analysis, you bring the questions 📊☕
 
 <div align="left">
 
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=3776AB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=1572B6)
-![Java](https://img.shields.io/badge/JAVA-ED8B00?style=flat-square&logo=java&logoColor=white&labelColor=ED8B00)
-![Microsoft Excel](https://img.shields.io/badge/MICROSOFT%20EXCEL-217346?style=flat-square&logo=microsoft-excel&logoColor=white&labelColor=217346)
-![Power BI](https://img.shields.io/badge/POWERBI-F2C811?style=flat-square&logo=power-bi&logoColor=black&labelColor=F2C811)
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=3776AB" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=1572B6" />
+<img src="https://img.shields.io/badge/JAVA-ED8B00?style=flat-square&logo=java&logoColor=white&labelColor=ED8B00" />
+<img src="https://img.shields.io/badge/MICROSOFT%20EXCEL-217346?style=flat-square&logo=microsoft-excel&logoColor=white&labelColor=217346" />
+<img src="https://img.shields.io/badge/POWERBI-F2C811?style=flat-square&logo=power-bi&logoColor=black&labelColor=F2C811" />
 
 </div>
 
@@ -35,7 +35,9 @@ I'll handle the analysis, you bring the questions 📊☕
 
 <div align="left">
   
-![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0077B5&link=https://linkedin.com/in/tusharkundekar)
+<a href="https://linkedin.com/in/tusharkundekar">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0077B5" />
+</a>
 
 </div>
 
@@ -49,7 +51,7 @@ Role: Aspiring Cloud Architect | Data Enthusiast
 Competition Wins: 
   - Techspectra 2023 Winner 🥇
   - Codethon 2025 Winner 🥇
-Current Focus: Cloud Computing & Data Analytics
+Current Focus: Data Analytics & Business Intelligence
 Motto: "Building the future, one line of code at a time"
 ```
 
