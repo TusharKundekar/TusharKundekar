@@ -1,16 +1,5 @@
 # 🌸 Hey there, I'm so glad you're here!
-
-<div align="center">
-  <img src="https://github.com/TusharKundekar/TusharKundekar/blob/main/img.jpg" width="200" style="border-radius: 50%; margin: 20px 0;" />
-  
-  ## Tushar K.
-  ### the-tushar-kundekar
-  
-  [![Follow](https://img.shields.io/github/followers/TusharKundekar?style=social)](https://github.com/TusharKundekar)
-</div>
-
 ---
-
 Welcome to my little corner of GitHub!  
 I'm passionate about growing in my career, picking up new tech skills, and making work life a little less overwhelming (and a lot more fun). Here you'll find:
 
