@@ -20,12 +20,12 @@ I'll handle the analysis, you bring the questions 📊☕
 
 <div align="left">
 
-<img src="https://img.shields.io/badge/🐍_PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/🌐_HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/🎨_CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/☕_JAVA-ED8B00?style=for-the-badge&logo=coffeescript&logoColor=white" />
-<img src="https://img.shields.io/badge/📊_MICROSOFT_EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-<img src="https://img.shields.io/badge/📈_POWER_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=power-bi&logoColor=black" />
 
 </div>
 
@@ -36,11 +36,10 @@ I'll handle the analysis, you bring the questions 📊☕
 <div align="left">
   
 <a href="https://linkedin.com/in/tusharkundekar">
-  <img src="https://img.shields.io/badge/💼_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;&nbsp;
 <a href="mailto:tusharkundekar@gmail.com">
-  <img src="https://img.shields.io/badge/📧_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
 </a>
 
 </div>
