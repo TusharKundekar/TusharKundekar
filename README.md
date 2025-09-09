@@ -35,13 +35,9 @@ I'll handle the analysis, you bring the questions 📊☕
 
 <div align="left">
   
-<a href="https://linkedin.com/in/tusharkundekar">
+<a href="https://www.linkedin.com/in/tushar-kundekar-1a99a1281/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:tusharkundekar1430@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-</a>
-
 </div>
 
 ---
