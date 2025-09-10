@@ -12,7 +12,7 @@ I'm a Data Analyst focused on transforming raw data into meaningful insights and
 Whether you're looking for analytical insights, interactive dashboards, or want to collaborate on data-driven projects—you've come to the right place!
 
 Ready to unlock the power of data together? Let's dive in.  
-I'll handle the analysis, you bring the questions 📊☕
+**I’ll manage the data, you bring the coffee...☕📊**
 
 ---
 
